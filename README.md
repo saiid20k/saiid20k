@@ -15,10 +15,4 @@
           <img width="175px" src="https://komarev.com/ghpvc/?username=saiid20k&color=DE002D">
       </a>
   </div>
-  <div align="center" style="margin: 40px 0">
-      <!-- Followers -->
-      <a href="https://github.com/halac?tab=followers">
-          <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/halac?style=flat-square">
-      </a>
-  </div>
 </h1>
