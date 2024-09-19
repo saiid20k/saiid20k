@@ -1,8 +1,9 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=saiid20k&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in) -->
 
-<h6> #Full stack developer with experience in various technologies.
-<br>
-Feel free to reach out to me via [Email](mailto:saiid20k@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/saiid20k/).
+<h6> #Full stack developer with experience in various technologies. </h6>
+
+<h6>
+Feel free to reach out to me via <b> saiid20k@gmail.com </b>
 </h6>
 <hr>
 
